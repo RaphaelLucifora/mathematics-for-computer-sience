@@ -27,6 +27,8 @@ ACADEMIC REFERENCES
 * Discrete Mathematical Structures with Applications to Computer Science; Tremblay,Manohar
 * Introduction to Digital Logic Design, Hayes
 * Contemporary Logic Design; Katz, Borrielo
+
 PRIMARY RESOURCES
 * A Symbolic Analysis of Relay and Switching Circuits, Shannon
 * Laws of Thought, George Boole
+
