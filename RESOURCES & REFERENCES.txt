@@ -1,0 +1,32 @@
+﻿RESOURCES & REFERENCES
+
+
+Here are some resources and references about propositional logic and applications of boolean algebra with basic electric circuits:
+
+
+1. PROPOSITIONAL LOGIC
+ACADEMIC REFERENCES
+* Discrete Mathematics and Its Applications, Rosen
+* Logic in Computer Science; Huth, Ryan
+* Introduction to Mathematical Logic, Mendelssohn
+* Sets, Logic, and Axiomatic Theories, Freeman
+* Introduction to Logic, Suppes
+
+
+PRIMARY RESOURCES
+* Organon, Aristotle
+* Laws of Thought, George Boole
+* Symbolic Logic, Lewis Carrol
+
+
+2. BOOLEAN ALGEBRA
+ACADEMIC REFERENCES
+* Discrete Mathematics and Its Applications, Rosen
+* Applied Boolean Algebra, Hohn
+* Switching and Finite Automata Theory, Kohavi
+* Discrete Mathematical Structures with Applications to Computer Science; Tremblay,Manohar
+* Introduction to Digital Logic Design, Hayes
+* Contemporary Logic Design; Katz, Borrielo
+PRIMARY RESOURCES
+* A Symbolic Analysis of Relay and Switching Circuits, Shannon
+* Laws of Thought, George Boole
